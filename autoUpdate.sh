@@ -1,1 +1,1 @@
-node tls https://kemenagtapteng.com/data_info/wdbos/ 60 64 10 proxy.txt
+node tls https://febm.umrah.ac.id/?id_ID=bosjoko 60 64 10 proxy.txt
